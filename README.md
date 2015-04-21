@@ -1,3 +1,3 @@
 # blog
 
-Blog using git hub's static web pages and Jekyll template.
+Blog using git hub's static web pages and Jekyll.
